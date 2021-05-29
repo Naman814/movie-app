@@ -1,0 +1,23 @@
+h1{
+    color:#bd2000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+
+p{
+    font-size: 25px;
+}
+.App{
+    margin: auto;
+    text-align: center;
+   
+}
+
+button{
+
+    height: 40px;
+    width:80px;
+ 
+}
